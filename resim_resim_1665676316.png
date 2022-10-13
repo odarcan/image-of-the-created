@@ -1,0 +1,8 @@
+<br />
+<b>Warning</b>:  imagepng(resim_cache_latest.png): failed to open stream: Permission denied in <b>/mnt/d272a8a5-d4de-46ef-b671-befdb5f8f422/www/4444.to/resim/resim.php</b> on line <b>240</b><br />
+<br />
+<b>Warning</b>:  chmod(): No such file or directory in <b>/mnt/d272a8a5-d4de-46ef-b671-befdb5f8f422/www/4444.to/resim/resim.php</b> on line <b>241</b><br />
+<br />
+<b>Warning</b>:  touch(): Unable to create file resim_cache_latest.png because Permission denied in <b>/mnt/d272a8a5-d4de-46ef-b671-befdb5f8f422/www/4444.to/resim/resim.php</b> on line <b>242</b><br />
+<br />
+<b>Warning</b>:  file_get_contents(resim_cache_latest.png): failed to open stream: No such file or directory in <b>/mnt/d272a8a5-d4de-46ef-b671-befdb5f8f422/www/4444.to/resim/resim.php</b> on line <b>258</b><br />
